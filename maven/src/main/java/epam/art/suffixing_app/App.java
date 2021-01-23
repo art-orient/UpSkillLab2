@@ -6,14 +6,16 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import epam.art.suffixing_module.ConfigPath;
 
 public class App {
-    static String config;
+    private static String config;
 
     public static void main( String[] args ) {
-        ConfigPath.main(args);
-        config = ConfigPath.getPath();
+            if (args.length > 0) {
+                config = args[0];
+            } else {
+                config = "config.json";
+            }
         System.out.println(config);
         MyFile myFile = parse(config);
         System.out.println(myFile);
