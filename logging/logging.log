@@ -1,0 +1,37 @@
+2021-01-25 12:31:18,187 INFO [main] Начало работы метода main 
+2021-01-25 12:31:18,192 DEBUG [main] Адрес конфиг-файла: config.json 
+2021-01-25 12:31:18,251 INFO [main] Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='MVN'} 
+2021-01-25 12:31:18,254 WARN [main] File C:/resources/file.txt not found. 
+2021-01-25 12:31:18,254 INFO [main] Завершена работа программы. Файлы не переименованы, так как не найдены. 
+2021-01-25 12:32:01,650 INFO [main] Начало работы метода main 
+2021-01-25 12:32:01,656 DEBUG [main] Адрес конфиг-файла: config.json 
+2021-01-25 12:32:01,711 INFO [main] Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='MVN'} 
+2021-01-25 12:32:01,714 ERROR [main] Произошла ошибка ввода-вывода:  java.nio.file.FileAlreadyExistsException: C:\resources\fileMVN.txt
+	at java.base/sun.nio.fs.WindowsFileCopy.move(WindowsFileCopy.java:351)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.move(WindowsFileSystemProvider.java:292)
+	at java.base/java.nio.file.Files.move(Files.java:1426)
+	at epam.art.logging.App.main(App.java:44)
+
+2021-01-25 12:32:01,715 ERROR [main] Произошла ошибка ввода-вывода:  java.nio.file.FileAlreadyExistsException: C:\resources\secondMVN.txt
+	at java.base/sun.nio.fs.WindowsFileCopy.move(WindowsFileCopy.java:351)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.move(WindowsFileSystemProvider.java:292)
+	at java.base/java.nio.file.Files.move(Files.java:1426)
+	at epam.art.logging.App.main(App.java:44)
+
+2021-01-25 12:32:01,716 ERROR [main] Произошла ошибка ввода-вывода:  java.nio.file.FileAlreadyExistsException: C:\resources\thirdMVN.ini
+	at java.base/sun.nio.fs.WindowsFileCopy.move(WindowsFileCopy.java:351)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.move(WindowsFileSystemProvider.java:292)
+	at java.base/java.nio.file.Files.move(Files.java:1426)
+	at epam.art.logging.App.main(App.java:44)
+
+2021-01-25 12:32:01,716 INFO [main] Завершена работа программы. 
+2021-01-25 12:32:30,936 INFO [main] Начало работы метода main 
+2021-01-25 12:32:30,942 DEBUG [main] Адрес конфиг-файла: config.json 
+2021-01-25 12:32:31,019 INFO [main] Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='MVN'} 
+2021-01-25 12:32:31,024 INFO [main] Файл C:/resources/file.txt переименован в C:/resources/fileMVN.txt 
+2021-01-25 12:32:31,025 INFO [main] Пользователю выведено сообщение: C:/resources/file.txt -> C:/resources/fileMVN.txt 
+2021-01-25 12:32:31,027 INFO [main] Файл C:/resources/second.txt переименован в C:/resources/secondMVN.txt 
+2021-01-25 12:32:31,027 INFO [main] Пользователю выведено сообщение: C:/resources/second.txt -> C:/resources/secondMVN.txt 
+2021-01-25 12:32:31,028 INFO [main] Файл C:/resources/third.ini переименован в C:/resources/thirdMVN.ini 
+2021-01-25 12:32:31,029 INFO [main] Пользователю выведено сообщение: C:/resources/third.ini -> C:/resources/thirdMVN.ini 
+2021-01-25 12:32:31,029 INFO [main] Завершена работа программы. 
