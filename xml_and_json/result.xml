@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <Name_config_file>config.xml</Name_config_file>
+    <time>940</time>
+    <Name_old_file>C:/resources/file.txt</Name_old_file>
+    <Name_old_file>C:/resources/second.txt</Name_old_file>
+    <Name_old_file>C:/resources/third.ini</Name_old_file>
+    <Name_new_file>C:/resources/fileXML.txt</Name_new_file>
+    <Name_new_file>C:/resources/secondXML.txt</Name_new_file>
+    <Name_new_file>C:/resources/thirdXML.ini</Name_new_file>
+</result>

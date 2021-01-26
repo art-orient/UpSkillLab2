@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="files">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="file" maxOccurs="unbounded" minOccurs="0"/>
+        <xs:element type="xs:string" name="suffix"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

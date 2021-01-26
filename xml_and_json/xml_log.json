@@ -1,0 +1,522 @@
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 135249200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='XML'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.135+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 326823200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/file.txt переименован в C:/resources/fileXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.326+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 326823200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/file.txt -> C:/resources/fileXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.326+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 334869200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/second.txt переименован в C:/resources/secondXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.334+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 336891600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/second.txt -> C:/resources/secondXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.336+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 336891600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/third.ini переименован в C:/resources/thirdXML.ini",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.336+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 336891600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/third.ini -> C:/resources/thirdXML.ini",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.336+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 344918600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Все файлы успешно переименованы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.344+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 346943800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Время работы программы, мс - 1289",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.346+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611678983,
+    "nanoOfSecond" : 377177900
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Завершена работа программы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:36:23.377+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 674500200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='XML'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.674+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 907302000
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Произошла ошибка ввода-вывода: ",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "C:\\resources\\fileXML.txt",
+    "message" : "C:\\resources\\fileXML.txt",
+    "name" : "java.nio.file.FileAlreadyExistsException",
+    "extendedStackTrace" : [ {
+      "class" : "sun.nio.fs.WindowsFileCopy",
+      "method" : "move",
+      "file" : "WindowsFileCopy.java",
+      "line" : 351,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "sun.nio.fs.WindowsFileSystemProvider",
+      "method" : "move",
+      "file" : "WindowsFileSystemProvider.java",
+      "line" : 292,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.nio.file.Files",
+      "method" : "move",
+      "file" : "Files.java",
+      "line" : 1426,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "epam.art.xml_and_json.App",
+      "method" : "main",
+      "file" : "App.java",
+      "line" : 73,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.907+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 967726200
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Произошла ошибка ввода-вывода: ",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "C:\\resources\\secondXML.txt",
+    "message" : "C:\\resources\\secondXML.txt",
+    "name" : "java.nio.file.FileAlreadyExistsException",
+    "extendedStackTrace" : [ {
+      "class" : "sun.nio.fs.WindowsFileCopy",
+      "method" : "move",
+      "file" : "WindowsFileCopy.java",
+      "line" : 351,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "sun.nio.fs.WindowsFileSystemProvider",
+      "method" : "move",
+      "file" : "WindowsFileSystemProvider.java",
+      "line" : 292,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.nio.file.Files",
+      "method" : "move",
+      "file" : "Files.java",
+      "line" : 1426,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "epam.art.xml_and_json.App",
+      "method" : "main",
+      "file" : "App.java",
+      "line" : 73,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.967+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 969748700
+  },
+  "thread" : "main",
+  "level" : "ERROR",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Произошла ошибка ввода-вывода: ",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "C:\\resources\\thirdXML.ini",
+    "message" : "C:\\resources\\thirdXML.ini",
+    "name" : "java.nio.file.FileAlreadyExistsException",
+    "extendedStackTrace" : [ {
+      "class" : "sun.nio.fs.WindowsFileCopy",
+      "method" : "move",
+      "file" : "WindowsFileCopy.java",
+      "line" : 351,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "sun.nio.fs.WindowsFileSystemProvider",
+      "method" : "move",
+      "file" : "WindowsFileSystemProvider.java",
+      "line" : 292,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.nio.file.Files",
+      "method" : "move",
+      "file" : "Files.java",
+      "line" : 1426,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "epam.art.xml_and_json.App",
+      "method" : "main",
+      "file" : "App.java",
+      "line" : 73,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.969+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 969748700
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Все файлы успешно переименованы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.969+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 969748700
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Время работы программы, мс - 1097",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.969+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679130,
+    "nanoOfSecond" : 999991000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Завершена работа программы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:38:50.999+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 428082500
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Данные конфиг-файла: MyFile{file=[C:/resources/file.txt, C:/resources/second.txt, C:/resources/third.ini], suffix='XML'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.428+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 581729600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/file.txt переименован в C:/resources/fileXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.581+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 581729600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/file.txt -> C:/resources/fileXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.581+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 581729600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/second.txt переименован в C:/resources/secondXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.581+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 581729600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/second.txt -> C:/resources/secondXML.txt",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.581+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 597365100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Файл C:/resources/third.ini переименован в C:/resources/thirdXML.ini",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.597+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 597365100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Пользователю выведено сообщение: C:/resources/third.ini -> C:/resources/thirdXML.ini",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.597+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 597365100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Все файлы успешно переименованы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.597+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 597365100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Время работы программы, мс - 940",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.597+0300"
+}
+{
+  "instant" : {
+    "epochSecond" : 1611679198,
+    "nanoOfSecond" : 628610900
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "JSON_APPENDER",
+  "message" : "Завершена работа программы.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5,
+  "timestamp" : "2021-01-26T19:39:58.628+0300"
+}

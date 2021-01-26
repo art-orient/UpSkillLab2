@@ -1,4 +1,4 @@
-package epam.art.logging;
+package epam.art.xml_and_json;
 
 import static org.junit.Assert.assertTrue;
 
