@@ -24,7 +24,6 @@ public class App {
 
     public static void main( String[] args ) {
         long start = System.currentTimeMillis();
-//        logger.debug("Debug message");
         log.info("Начало работы метода main");
         org.apache.logging.log4j.core.config.Configurator.initialize(null, "log4j2.xml");
         if (args.length > 0) {
