@@ -9,3 +9,5 @@ _Content:_
 3. JUnit
 4. Logging (Log4j2)
 5. XML and JSON
+6. XML and JSON in Java
+7. Object-Oriented Software Design and Programming
