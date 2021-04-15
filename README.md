@@ -1,4 +1,4 @@
-# UpSkillLab
+# UpSkill Lab: Java Basics #1
 
 **Training of EPAM Systems**
 
